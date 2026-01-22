@@ -2,7 +2,7 @@
 
 A professional, modern admin dashboard built with React, Material UI, and React Bootstrap. This frontend-only application provides a comprehensive interface for tracking tasks, team productivity, and performance analytics.
 
-![Dashboard Preview](public/screenshots/Screenshot 2026-01-21 132342.png)
+![Alt text](public\screenshots\screenshot-2026-01-21-132342.png)
 
 ## ✨ Features
 
